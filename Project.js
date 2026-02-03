@@ -1,7 +1,5 @@
 
 
 function Player() {
-    if (condition) {
-        
-    }
+    prompt("Step1")
 }
